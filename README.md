@@ -8,4 +8,4 @@ Dihjauti /di:.'hjau.ti: | dee.'hyow.tee/, is predominantly based off Dwiggin's E
 
 This is the updated and redrawn version of Dehuti/Dehjuti. After using the font on my kindle, I slowly began adjusting its design, spacing, and kerning, making it even more like Electra, but now with hints of Baskerville, as I realized that I wanted it to be more rounded. The italics, as a result, and which I had always had issues with design-wise, thus became Scotch-styled. Dihjauti S (Scotch) reflects that influence in the capital Q.
 
-This is the newer version from that on Font Squirrel. They have yet to upload this version, which has the original Electra-styled Q, a better designed Scotch Q, and has also been expanded.
+This is the newer version from that on Font Squirrel. They have yet to upload this version, which has the original Electra-styled Q, a better designed Scotch Q, and has also been expanded. Since this is a Unicode font, I will update it on occasion, so check back for new versions.
