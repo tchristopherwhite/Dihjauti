@@ -1,11 +1,11 @@
-Dihjauti version 1.0.0
+Dihjauti version 2.0.0
 
 Author/designer: T. Christopher White (I & O Media)
 You can contact me, if you have suggestions, find problems or know how to fix them, et cetera, at: amenemsu@gmail.com
 
 Dihjauti /di:.'hjau.ti: | dee.'hyow.tee/, is predominantly based off Dwiggin's Electra with shades of Baskerville, Fairfield, and Perpetua. It is modern and stately, and like its inspirers, it has broad counters and spacing, which temper it and give it warmth, making it comfortable and well-suited for longer texts. It is balanced in all aspects, from its punctuation to its reference marks and symbols. Its design takes into consideration all extra characters for languages that few fonts support, such as African and First Nation. These extra characters, such as Edh, Esh, Gamma, Ezh, Yogh, the pharyngeal fricatives, the click consonants (which have added capital versions), the glottal stops, et cetera, actually look like they belong, as opposed to being afterthoughts. The italic incorporates a touch of Arrighi. It includes all transcription systems relevant to the Latin, Cyrillic, and Greek alphabets, as well as standard Coptic, plus extra characters for Teuthonista and First Nation. It also includes, to list a few, Egyptian-styled pictographs (where applicable), APL, a plethora of mathematical symbols and arrows, and a number of alternatives in the PUA.
 
-This is the updated and redrawn version of Dehuti/Dehjuti. After using the font on my kindle, I slowly began adjusting its design, spacing, and kerning, making it even more like Electra, but now with hints of Baskerville, as I realized that I wanted it to be more rounded. The italics, as a result, and which I had always had issues with design-wise, thus became Scotch-styled. Dihjauti S (Scotch) reflects that influence in the capital Q.
+This is the updated and redrawn version of Dehuti/Dehjuti. After using the font on my kindle, I slowly began adjusting its design, spacing, and kerning, making it even more like Electra, but now with hints of Baskerville, as I realized that I wanted it to be more rounded. The italics, as a result, and which I had always had issues with design-wise, thus became Scotch-styled. Dihjauti S (Scotch) reflects that influence in the capital Q. This version (2.0) has some spacing fixes and redesigns to certain characters, those most notably being the asterisk and question marks, the italic a, e, and k, the combining hook and horn, all glyphs with flares, i.e., all combining glyphs (such as the macrons), Æ, E, F, f, g, t, et cetera, and the middle strokes/serifs of a, c, e, s, et cetera, which have become more Electra-esque. The Scotch-styled Q has been redesigned. Also, new characters have been added (SIL additions), while others have been moved.
 
 Notes: 1) The superscript characters, modifier letters, and the numerators, are all part of the superscript table. 2) The bold versions of the font have some alternative/reversed characters; I did this because there is no difference in the math or punctuation symbols, i.e., the bold versions are not actually bold (with exceptions), which gives the font a better harmony. 3) The font uses anchors, which means that it will not align properly for linguistic use, or otherwise, without opentype. 4) For those interested, Open or Libre Office can access all glyphs using: Insert > Special Character.
 
@@ -23,9 +23,9 @@ Dihjauti includes:
 • Redesigned velar, palatal and retroflex characters; I included these if anyone may wish to use them, though they are, with a few exceptions, deprecated.
 • Redesigned glottal stops. Their new design resembles curved 7s, which is preferred in the languages that use them. They are (0241 & 0242), and (A7CB & A7CC) for the voiced pharyngeal fricatives.
 • IPA, NAPA, UPA, & Teuthonista (Combining Diacritical Marks Extended, Latin Extended-E, plus extras in the PUA [E6C4 – E6D5]); now with Latin Extended-F & -G, and Cyrillic Extended-D.
-• SIL additions: 1) Modifier letter small capital barred u (F1CD); 2) Nine-step tone markers for African orthographies (F1F1 – F1F9); 3) Retroflex D with hook (F20D), counterpart to (1D91); and, 4) a & A for Kaolib (F247 & F248).
+• SIL additions: 1) Modifier letter small capital barred u (F1CD); 2) Nine-step tone markers for African orthographies (F1F1 – F1F9); 3) Retroflex D with hook (F20D), counterpart to (1D91); 4) German dictionary small capital I + schwa and Latin upsilon + schwa (F258 & F259); 5) bilabial trilled b (F26D), with added capital (E0E7); 6) Capital small rams horn (F26E); and 7), Cyrillic capital and small Ghe with stroke and descender (F326 & F327).
 • Small mathematical operators that correlate with vector or cross product (2A2F), plus fullwidth mathematical operators that correlate with multiplication X (2715). Now included are the remainder of the heavy versions accompanying the cross mark, or times (274C): plus, minus, division (2795 - 2797), and equals (1F7F0).
-• Medieval, extra script, fraktur and double-struck letters, as well as raised MC, MD, MR, and more pictographs.
+• Medieval, extra script, fraktur and double-struck letters, as well as raised MC, MD, MR, Wz, and more pictographs.
 • A multitude of alternatives in the PUA, most with opentype extensions
 
 These are my additions, which are mostly in the PUA:
@@ -40,11 +40,10 @@ These are my additions, which are mostly in the PUA:
 • (A79A & A79B, plus A79E): I placed new characters in these spots, normally used for Volapük. They are barred A & a, followed by capital UE.
 • (A7A0 - A7A9) have been redesigned with a horizontal bar, to be used with other characters that have this feature.
 • Latin Yeris (0184 & 0185), i.e., the Latin tone six letters. This letter, used with Janalif, is the equivalent of Latin letter dotless I.
-• Alternative diacritical marks replacing the deprecated grave and acute tones (0340 & 0341). These are the Saurashtra candrabindu (used in India), and a combined caron and comma above for First Nation languages.
 • Triple diacritic marks, which anchor to the center character: circumflex (1AFC), inverted breve (1AFD), breve below (1AFE), tilde below (1AFF)
 • Circled Logical And and Logical Or, which are in the bold version
 • Mathematical exclamation mark (2757), i.e., the heavy exclamation mark
-• Question, exclamation, interrobang, and reversed question marks with commas (E000-E003); type a comma followed by an exclamation mark, question mark, interrobang, or reversed question mark.
+• Question, exclamation, interrobang, and reversed question marks with commas (E000-E003); type a comma followed by an exclamation mark, question mark, interrobang, or reversed question mark (2E2E).
 • Bilabial trill B (E0E7), counterpart to the SIL addition (F2D6)
 • Alternative B with hook (E0E9)
 • Alternative stroked B/b (A796 & A797) — B with flourish
@@ -57,7 +56,6 @@ These are my additions, which are mostly in the PUA:
 • Barred E/e (E164 & E1AB)
 • Open E variant (E179); turned open E is (2108)
 • Open e variant for Teuthonista (E1C0); turned open e is (0258)
-• Capital small rams horn (E255)
 • Alternative hooked g (E261) — linguistic use.
 • Teuthonista g with stroked tail (E262)
 • H with line below (E282), counterpart to (1E96)
@@ -105,7 +103,8 @@ These are my additions, which are mostly in the PUA:
 • Extra characters for Teuthonista (E6C4 – E6D5): superscript/modifier letter combining diaeresis (E6D1); combining dotless i (E6D2), small double parenthses (E6D4 & E6D5)
 • Modifier letter Theta for First Nation languages (E733)
 • Alternative drachma (E7B8), mil (E7B9), pfennig (E7BA), and Nordic sign (E7BB)
-• Additional combining forms for Medieval Latin: (E7BC – for use with f and ſ); (E7BD – for use with i, k, u,..); (E7BE & E7BF) are flourishes for B/P and b/p. (E7C1): glyph for -ipe (accipe).
+• Additional combining forms for Medieval Latin: (E7BC – for use with f and ſ); (E7BD – for use with i, k, u,..)
+• Additional combing marks (E7C2 – E7C4): Saurashtra candrabindu (used in India), a combined haček and comma above for First Nation languages, and grave + acute.
 • Alternative ampersands (E7C5 & E7C6)
 • Alternative pilcrow/paragraph (E7C7)
 • Additional characters for drafting (E7C8 - E7CB), which are in the regular version.
@@ -124,17 +123,23 @@ These are my additions, which are mostly in the PUA:
 • Merged product and co-product (E7E6); type product, then co-product, i.e., (220F & 2210).
 • Large combining glyphs (E7E7 – E7E9)
 • (E7EF): Dihjau (ibis) icon; reversed in bold version
-• (E7F5): eye of Hjoru (sky) icon; reversed in bold version
+• Alternative circled equals (E7F3), is part of the group of circled symbols for licensing, the others being: (1F10D – 1F12C, 1F12F, and 1F16D – 1F16F).
+• (E7F4): Restart button; an addition to the other power symbols (23FB – 23FE).
+• (E7F5): eye of Rijaa (Sun) icon; the bold version is the reversed eye of Hjoru (sky) icon.
 • (E7FA) is the inverse version of (1F5F9).
 • Battery charging glyphs for use with 1F50B & 1FAAB (E800 – E806).
-• Connecting arrow extensions, additions to (23AF), horizontal line extension, i.e., the connecting right pointing arrow extension. (E810): left pointing arrow connector; (E811): left-right joiner; (E812): double right pointing arrow connector; (E813): double left pointing arrow connector; and (E814): double left-right joiner. These can also be used with the hyphen, en, and em dashes.
+• Connecting arrow extensions, additions to (23AF), horizontal line extension, i.e., the connecting right pointing arrow extension. (E807 – E80B): open middle joiners; (E80C – E80F): additional arrow tails/starters; (E810): double right pointing arrow connector (double of 23AF); (E811 & E812): left pointing connectors; (E813 & E814): left-right joiners; (E815 & E816): centered extensions; (E817 – E81E): extra tails/starters. All of these can be used with the hyphen, en, and em dashes, or arrows, pictographs, et cetera, to create decorative elements.
 • Extended Cyrillic vzmets & titlos (E84A – E84E). The triple titlo anchors to the center character.
 • Alternative combining Cyrillic letters (E84F [regular version], E84F – E853 [Italic])
+• (E85A – E881): decorative elements that can be used with the arrows, et cetera
+• (E88A – E88D): decorative joiner elements (these are negative spaced on both ends)
+• (E88E – E891): extra center decorative elements
+• (E89A – E89D): decorative endings (right joins followed by left joins)
 • Low tilde (EB67)
 • Mayan tabular numbers (F2E0 – F2F3).
 • Small and fullwidth forms: (FE55), the small colon, is for math; this character has no spacing, and is designed to be used with the hair space (200A). (FE57), the small exclamation mark, is an alternative for math/APL, as it is constructed with the apostrophe. (FE68), the small reverse solidus, is the counterpart to (2215), the division slash. (FF0F) is an alternative solidus operator for math, counterpart to (29F5), the reverse solidus operator. (FF5C) is an alternative bar for math.
 • (1F5B3), or old personal computer, is a tablet.
-• (1F702 & 1F704), fire and water, are graphically the same as (25B3 & 25BD).
+• (1F701 - 1F704, & 1F747), part of a set with (2721) Star of David.
 • (1F7F0), the heavy equals sign, accompanies (274C, and 2975 – 2797).
 • (1FBBF), is the black version of (26CB).
 
