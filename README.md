@@ -1,11 +1,12 @@
-<img width="740" alt="D8" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/89b0ac4f-803f-4394-a056-553ed022f5a3">
-<img width="740" alt="D7" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/6dd5e0d7-2162-4b08-93bd-9d25841cde31">
-<img width="740" alt="D6" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/a2c4c891-9422-41fc-b306-e860ccfb7563">
-<img width="740" alt="D5" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/706d54f7-bcdd-42ce-9378-226fb5e113dc">
-<img width="740" alt="D4" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/6021ff69-76ce-470e-9ff7-1a947ce0378c">
-<img width="740" alt="D3" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/3d6f62c5-5cb0-48bf-bd4a-0388dde033a2">
-<img width="740" alt="D2" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/a72d1b03-5042-467f-b4a8-fd0c03192dc7">
-<img width="740" alt="D1" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/96c75fa4-5196-4c58-8fe8-04b29feec03c">
+
+<img width="740" alt="D1" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/cd7a3bfd-57ac-4517-9567-300a90da6314">
+<img width="740" alt="D2" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/2e188277-30a1-4819-bd06-1df96d0ff337">
+<img width="740" alt="D3" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/ef5e2361-776b-4fc0-851b-f39224bdf6b6">
+<img width="740" alt="D4" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/fce9f9b3-5e6a-4632-8c32-761d613514ba">
+<img width="740" alt="D5" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/ee4c51b0-f840-4596-957b-d0f50c7f48b4">
+<img width="740" alt="D6" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/6ed643c2-f1e2-480a-8fec-e8a24e348801">
+<img width="740" alt="D7" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/9a0bcbce-0f74-4eb3-a218-79b95fd25ef4">
+<img width="740" alt="D8" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/4012cd5f-a8a1-4905-a47e-345b5f08fe89">
 
 
 
