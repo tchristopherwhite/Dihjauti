@@ -1,4 +1,4 @@
-If interested, a Donate link for support is under About.
+I have included a Donate link for support under About.
 
 
 <img width="740" alt="D1" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/cd7a3bfd-57ac-4517-9567-300a90da6314">
