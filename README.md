@@ -1,3 +1,4 @@
+If interested, a Donate link for support is under About.
 
 <img width="740" alt="D1" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/cd7a3bfd-57ac-4517-9567-300a90da6314">
 <img width="740" alt="D2" src="https://github.com/tchristopherwhite/Dihjauti/assets/37417237/2e188277-30a1-4819-bd06-1df96d0ff337">
@@ -12,7 +13,7 @@
 
 # Dihjauti
 
-Version 3 —Donate link under information—
+Version 3
 
 Dihjauti /di:.'hjau.ti: | dee.'hyow.tee/, is predominantly based off Dwiggin's Electra with shades of Baskerville, Fairfield, and Perpetua. It is modern and stately, and like its inspirers, it has broad counters and spacing, which temper it and give it warmth, making it comfortable and well-suited for longer texts. It is balanced in all aspects, from its punctuation to its reference marks and symbols. Its design takes into consideration all extra characters for languages that few fonts support, such as African and First Nation. These extra characters, such as Edh, Esh, Gamma, Ezh, Yogh, the pharyngeal fricatives, the click consonants (which have added capital versions), the glottal stops, et cetera, actually look like they belong, as opposed to being afterthoughts. The italic incorporates a touch of Arrighi. It includes all transcription systems relevant to the Latin, Cyrillic, and Greek alphabets, as well as standard Coptic, plus extra characters for Teuthonista and First Nation. It also includes, to list a few, Egyptian-styled pictographs (where applicable), APL, a plethora of mathematical symbols and arrows, and a number of alternatives in the PUA. This is the revamped version of Dehuti/Dehjuti.
 
