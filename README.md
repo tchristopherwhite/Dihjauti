@@ -1,3 +1,5 @@
+—I am in the process of releasing a new version, called Dihjau. The overall design is bolder, more like a text/book typeface now. It is also more Electra-esque, which means that quite a few design elements have changed. —Chris
+
 I have included a **Donate** link for support under **About**.
 
 <img width="740" alt="D1" src="https://github.com/user-attachments/assets/ebdff494-18bf-43ee-b331-563ca8a4dabb">
