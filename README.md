@@ -1,4 +1,4 @@
-Dihjau is now available. The overall design is bolder, more like a text/book typeface now. It is also more Electra-esque, which means that quite a few design elements have changed. —Chris
+Dihjau is now available. The overall design is bolder, more like a text/book typeface now. It is also more Electra-esque, which means that quite a few design elements have changed. This version is now retired. —Chris
 
 I have included a **Donate** link for support under **About**.
 
@@ -9,4 +9,3 @@ I have included a **Donate** link for support under **About**.
 # Dihjauti
 
 Version 3.1
-I will no longer be adding to this typeface. If you still want to use it, that's fine. The new version, Dihjau, is much better.
