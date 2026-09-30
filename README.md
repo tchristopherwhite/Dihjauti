@@ -1,4 +1,4 @@
-—I am in the process of releasing a new version, called Dihjau. The overall design is bolder, more like a text/book typeface now. It is also more Electra-esque, which means that quite a few design elements have changed. —Chris
+Dihjau is now available. The overall design is bolder, more like a text/book typeface now. It is also more Electra-esque, which means that quite a few design elements have changed. —Chris
 
 I have included a **Donate** link for support under **About**.
 
